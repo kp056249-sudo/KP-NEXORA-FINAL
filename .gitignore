@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.flask_secret
+*.db
+uploads/*
+!uploads/.gitkeep
+credentials.json
+google_client_secret.json
+client_secret.json
